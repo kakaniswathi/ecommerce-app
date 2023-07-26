@@ -1,0 +1,25 @@
+[
+    {
+      "id": 1,
+      "name": "Product 1",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.R2A7XHikGtXTc3e-gEINmgHaE7&pid=Api&P=0&w=300&h=300",
+      "price": 10.99,
+      "quantity": 50
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "image": "https://www.smchealth.org/sites/main/files/imagecache/lightbox/main-images/flavored_tobacco_image.jpg",
+      "price": 19.99,
+      "quantity": 30
+    },
+    {
+        "id": 3,
+        "name": "Product 4",
+        "image": "https://i1.wp.com/fashionandstylepolice.com/wp-content/uploads/2019/04/Johnsons-Baby-Products-image.jpg?ssl=1",
+        "price": 49.99,
+        "quantity": 50
+      }
+    
+  ]
+  
